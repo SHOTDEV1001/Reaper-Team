@@ -11,15 +11,15 @@ const portfolioData = {
             "أداء ممتاز بدون التأثير على السيرفر"
         ],
         images: [
-            "images/FIBPACK/FIB1.png", //1
-            "images/FIBPACK/FIB2.png", //2
-            "images/FIBPACK/FIB3.png", //3
-            "images/FIBPACK/FIB4.png", //4
-            "images/FIBPACK/FIB5.png", //5
-            "images/FIBPACK/FIB6.png", //6
-            "images/FIBPACK/FIB7.png", //7
-            "images/FIBPACK/FIB8.png", //8
-            "images/FIBPACK/FIB9.png"  //9
+            "https://i.postimg.cc/nrPrZjnf/FIB1.png", //1
+            "https://i.postimg.cc/L5X5rBFF/FIB2.png", //2
+            "https://i.postimg.cc/j2F2KwtB/FIB3.png", //3
+            "https://i.postimg.cc/1XjXPnyS/FIB4.png", //4
+            "https://i.postimg.cc/xj41XmVF/FIB5.png", //5
+            "https://i.postimg.cc/BQPQHvqX/FIB6.png", //6
+            "https://i.postimg.cc/wTRTLB6m/FIB7.png", //7
+            "https://i.postimg.cc/J72zsXWh/FIB8.png", //8
+            "https://i.postimg.cc/HkQYvP8y/FIB9.png"  //9
         ]
     },
     2: {
@@ -32,11 +32,11 @@ const portfolioData = {
             "التجهيزات التكتيكية (Load Bearing)"
         ],
         images: [
-            "images/SSEPACK/SSE1.png", //1
-            "images/SSEPACK/SSE2.png", //2
-            "images/SSEPACK/SSE3.png", //3
-            "images/SSEPACK/SSE4.png", //4
-            "images/SSEPACK/SSE5.png"  //5
+            "https://i.postimg.cc/gjFdKVc2/SSE1.png", //1
+            "https://i.postimg.cc/QCGsqQNV/SSE2.png", //2
+            "https://i.postimg.cc/L5KRVt4z/SSE3.png", //3
+            "https://i.postimg.cc/8cQDbRkM/SSE4.png", //4
+            "https://i.postimg.cc/MZVzpFtf/SSE5.png"  //5
         ]
     },
     3: {
@@ -50,10 +50,10 @@ const portfolioData = {
             "The Flow (التناسق)"
         ],
         images: [
-            "images/BLOODSGANG/BL1.png", //1
-            "images/BLOODSGANG/BL2.png", //2
-            "images/BLOODSGANG/BL3.png", //3
-            "images/BLOODSGANG/BL4.png"  //4
+            "https://i.postimg.cc/VLCHXx2s/BL1.png", //1
+            "https://i.postimg.cc/wjFPBhS2/BL2.png", //2
+            "https://i.postimg.cc/1Xx7dMN2/BL3.png", //3
+            "https://i.postimg.cc/Y9Ly8Tj5/BL4.png"  //4
         ]
     },
     4: {
@@ -67,10 +67,10 @@ const portfolioData = {
             "The Flow (التناسق)"
         ],
         images: [
-            "images/VAGOS/V1.png", //1
-            "images/VAGOS/V2.png", //2
-            "images/VAGOS/V3.png", //3
-            "images/VAGOS/V4.png"  //4
+            "https://i.postimg.cc/cHG59XYs/V1.png", //1
+            "https://i.postimg.cc/Wb1YHDD4/V2.png", //2
+            "https://i.postimg.cc/3rBb1jw7/V3.png", //3
+            "https://i.postimg.cc/hPtZ5JJ8/V4.png"  //4
         ]
     }
 };
